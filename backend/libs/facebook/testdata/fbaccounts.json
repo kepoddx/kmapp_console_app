@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Fond du Lac Ad Account",
+        "account_id": "10154131483275667",
+        "id": "act_10154131483275667",
+        "site": "Fond du Lac",
+        "fb_account_type": "child",
+        "insights_include": true
+      },
+      {
+        "name": "Manitowoc Ad Account",
+        "account_id": "10154131490205667",
+        "id": "act_10154131490205667",
+        "site": "Manitowoc",
+        "fb_account_type": "child",
+        "insights_include": true
+      },
+      {
+        "name": "Marshfield  Ad Account",
+        "account_id": "10154131518135667",
+        "id": "act_10154131518135667",
+        "site": "Marshfield",
+        "fb_account_type": "child",
+        "insights_include": true
+      },
+      {
+        "name": "Stevens Point Ad Account",
+        "account_id": "10154131553270667",
+        "id": "act_10154131553270667",
+        "site": "Stevens Point",
+        "fb_account_type": "child",
+        "insights_include": true
+      },
+      {
+        "name": "Wisconsin Rapids Ad Account",
+        "account_id": "10154131566455667",
+        "id": "act_10154131566455667",
+        "site": "Wisconsin Rapids",
+        "fb_account_type": "child",
+        "insights_include": true
+      }
+]

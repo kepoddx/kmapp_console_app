@@ -1,0 +1,19 @@
+{
+  "account_id": "act_10154131483275667",
+  "labelTypes": [
+    "pwc",
+    "lpr"
+  ],
+  "facebookLabels": [
+    {
+      "account_id": "act_10154131483275667",
+      "id": "23843236043990182",
+      "name": "pwc"
+    },
+    {
+      "account_id": "act_10154131483275667",
+      "id": "23843236044000182",
+      "name": "lpr"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+    "audienceName": "AG Paywall Converters Exclusions 3.12.19",
+    "subtype": "CUSTOM",
+    "id": 23843232850690184,
+    "customer_file_source": "USER_PROVIDED_ONLY",
+    "fileName": "FondDuLac_AG_Paywall_Converters_Exclusions_3.12.19.json",
+    "audiences": {
+        "include": [
+            "Paywall Converters"
+        ],
+        "exclude": [
+            "Active_FA",
+            "Active_DO"
+        ]
+    },
+    "budget": "",
+    "schedule": {
+        "from": {
+            "time": "",
+            "hours": ""
+        },
+        "to": {
+            "time": "",
+            "hours": ""
+        }
+    },
+    "age": {
+        "from": "",
+        "to": ""
+    },
+    "placements": {
+        "facebook": [
+            "Feeds"
+        ],
+        "instagram": [],
+        "audienceNetwork": []
+    },
+    "blockList": [
+        "USATN FB Ad Exclusions_2.9.18"
+    ],
+    "optimization": "Landing Page Views",
+    "headline": "Keep reading and support local journalism.",
+    "text": "Staying connected, informed, and involved in the community is a purpose, a passion, and a big part of why we’d like you to support local journalism.  Click Learn More below to unlock exclusive and unlimited access to fdlreporter.com.",
+    "websiteUrl": "",
+    "description": "Exclude from Paywall conveter ads",
+    "conversionTracking": "Facebook Pixel",
+    "imageLink": "assets/facebook/Paywall Converter.png",
+    "name": "PWCEX",
+    "listRunDate": "3.12.19",
+    "account_id": "act_10154131483275667",
+    "siteName": "FondDuLac",
+    "testAttr": "keith"
+}

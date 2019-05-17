@@ -1,0 +1,3642 @@
+[
+  {
+    "siteName": "Alamogordo",
+    "tier": "C",
+    "oas": "",
+    "website": "alamogordonews.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "18.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "28",
+      "pubCode": "T6"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "42",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "13.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "67",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Sioux Falls",
+    "tier": "B",
+    "oas": "Keith",
+    "website": "argusleader.com",
+    "market": "Mid",
+    "lsm": "Alex Fowler",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "28.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "54",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "61",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "14.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "69",
+      "pubCode": "SR"
+    }
+  },
+  {
+    "siteName": "Phoenix",
+    "tier": "A",
+    "oas": "",
+    "website": "azcentral.com",
+    "market": "Metro",
+    "lsm": "Nicole Dahnk",
+    "oaManager": "Ed Hart",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "32.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "59",
+      "pubCode": ""
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "",
+      "pubCode": ""
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "",
+      "pubCode": ""
+    }
+  },
+  {
+    "siteName": "Battle Creek",
+    "tier": "C",
+    "oas": "",
+    "website": "battlecreekenquirer.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "26.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "50",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "20.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "57",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "14.25",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "70",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Bucyrus",
+    "tier": "C",
+    "oas": "",
+    "website": "bucyrustelegraphforum.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "17.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "24",
+      "pubCode": "DO"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "13.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "33",
+      "pubCode": "WK"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "",
+      "pubCode": ""
+    }
+  },
+  {
+    "siteName": "Burlington",
+    "tier": "B",
+    "oas": "",
+    "website": "burlingtonfreepress.com",
+    "market": "Mid",
+    "lsm": "Deidre Coyle",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "29.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "55",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "23.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "62",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "73",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Corpus Christi",
+    "tier": "B",
+    "oas": "",
+    "website": "caller.com",
+    "market": "Mid",
+    "lsm": "Katie Hauder",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "28.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "54",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "61",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "73",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Chillicothe",
+    "tier": "C",
+    "oas": "",
+    "website": "chillicothegazette.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "41",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "17.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "49",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "71",
+      "pubCode": "SS"
+    }
+  },
+  {
+    "siteName": "Cincinnati",
+    "tier": "A",
+    "oas": "",
+    "website": "cincinnati.com",
+    "market": "Metro",
+    "lsm": "Sara Helbig",
+    "oaManager": "Ed Hart",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "32.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "59",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "61",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "18.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "76",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Asheville",
+    "tier": "B",
+    "oas": "Keith",
+    "website": "citizen-times.com",
+    "market": "Mid",
+    "lsm": "Tricia Speziale",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "29.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "55",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "20.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "57",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "71",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Fort Collins",
+    "tier": "B",
+    "oas": "Keith",
+    "website": "coloradoan.com",
+    "market": "Mid",
+    "lsm": "Alex Fowler",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "41",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "46",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "14.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "69",
+      "pubCode": "SW"
+    }
+  },
+  {
+    "siteName": "Memphis",
+    "tier": "B",
+    "oas": "Keith",
+    "website": "commercialappeal.com",
+    "market": "Mid",
+    "lsm": "Sarah Kim",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "27.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "52",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "20.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "57",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "71",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Coshocton",
+    "tier": "C",
+    "oas": "",
+    "website": "coshoctontribune.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "41",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "17.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "49",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "13.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "67",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Louisville",
+    "tier": "A",
+    "oas": "",
+    "website": "courier-journal.com",
+    "market": "Metro",
+    "lsm": "Michelle Fernandes",
+    "oaManager": "Ed Hart",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "32.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "59",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "26.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "67",
+      "pubCode": "WS"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "18.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "76",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Cherry Hill",
+    "tier": "B",
+    "oas": "Keith",
+    "website": "courierpostonline.com",
+    "market": "Mid",
+    "lsm": "Tricia Speziale",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "28.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "54",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "23.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "62",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "73",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Evansville",
+    "tier": "B",
+    "oas": "Keith",
+    "website": "courierpress.com",
+    "market": "Mid",
+    "lsm": "Heather Hebert",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "28.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "54",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "61",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "14.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "69",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Carlsbad",
+    "tier": "C",
+    "oas": "Keith",
+    "website": "currentargus.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "18.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "28",
+      "pubCode": "T6"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "42",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "13.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "67",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Morristown",
+    "tier": "C",
+    "oas": "",
+    "website": "dailyrecord.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "28.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "54",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "20.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "57",
+      "pubCode": "D3"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "73",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Farmington",
+    "tier": "C",
+    "oas": "",
+    "website": "daily-times.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "19",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "13.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "33",
+      "pubCode": "SO"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "",
+      "pubCode": ""
+    }
+  },
+  {
+    "siteName": "Opelousas",
+    "tier": "C",
+    "oas": "",
+    "website": "dailyworld.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "13",
+      "pubCode": "D3"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "8.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "",
+      "pubCode": "SO"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "",
+      "pubCode": "N/A"
+    }
+  },
+  {
+    "siteName": "Wilmington",
+    "tier": "B",
+    "oas": "",
+    "website": "delawareonline.com",
+    "market": "Mid",
+    "lsm": "Laura Romberger",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "32.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "59",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "25.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "65",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "17.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "75",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Salisbury",
+    "tier": "B",
+    "oas": "Keith",
+    "website": "delmarvanow.com",
+    "market": "Mid",
+    "lsm": "Tricia Speziale",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "27.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "52",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "6.48",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "1.49",
+      "savings": "60",
+      "pubCode": "SW"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "73",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Deming",
+    "tier": "C",
+    "oas": "",
+    "website": "demingheadlight.comnetwork",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "13",
+      "pubCode": "WF + Las Cruces Sunday"
+    }
+  },
+  {
+    "siteName": "Rochester",
+    "tier": "A",
+    "oas": "",
+    "website": "democratandchronicle.com",
+    "market": "Metro",
+    "lsm": "Sara Troiano",
+    "oaManager": "Ed Hart",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "32.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "59",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "26.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "67",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "18.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "76",
+      "pubCode": "SS"
+    }
+  },
+  {
+    "siteName": "Palm Springs",
+    "tier": "B",
+    "oas": "",
+    "website": "desertsun.com",
+    "market": "Mid",
+    "lsm": "Lisa McGlashan",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "28.50",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "54",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "61",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "18.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "76",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Des Moines",
+    "tier": "A",
+    "oas": "",
+    "website": "desmoinesregister.com",
+    "market": "Metro",
+    "lsm": "Corrine Martinez",
+    "oaManager": "Ed Hart",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "32.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "59",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "24.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "64",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "73",
+      "pubCode": "SP (A&C)"
+    }
+  },
+  {
+    "siteName": "Detroit News",
+    "tier": "A",
+    "oas": "",
+    "website": "detroitnews.com",
+    "market": "Metro",
+    "lsm": "Julia Stevenson",
+    "oaManager": "Ed Hart",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "41",
+      "pubCode": "PW"
+    }
+  },
+  {
+    "siteName": "Murfreesboro",
+    "tier": "C",
+    "oas": "",
+    "website": "dnj.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "20.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "35",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "46",
+      "pubCode": "SS"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "12.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "64",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "El Paso",
+    "tier": "B",
+    "oas": "",
+    "website": "elpasotimes.com",
+    "market": "Mid",
+    "lsm": "Katie Hauder",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "28.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "54",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "61",
+      "pubCode": "FM"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "18.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "76",
+      "pubCode": "SS"
+    }
+  },
+  {
+    "siteName": "Hanover",
+    "tier": "C",
+    "oas": "",
+    "website": "eveningsun.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "13",
+      "pubCode": "H3"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "12.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "28",
+      "pubCode": "SO"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "",
+      "pubCode": ""
+    }
+  },
+  {
+    "siteName": "Fond Du Lac",
+    "tier": "C",
+    "oas": "",
+    "website": "fdlreporter.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "20.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "35",
+      "pubCode": "5S"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "14.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "38",
+      "pubCode": "SW"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "",
+      "pubCode": ""
+    }
+  },
+  {
+    "siteName": "Brevard",
+    "tier": "B",
+    "oas": "",
+    "website": "floridatoday.com",
+    "market": "Mid",
+    "lsm": "Donna Pirson",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "29.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "55",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "20.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "57",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "71",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Detroit Free Press",
+    "tier": "A",
+    "oas": "",
+    "website": "freep.com",
+    "market": "Metro",
+    "lsm": "Julia Stevenson",
+    "oaManager": "Ed Hart",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "41",
+      "pubCode": "PW"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "73",
+      "pubCode": "SD"
+    }
+  },
+  {
+    "siteName": "San Angelo",
+    "tier": "C",
+    "oas": "Keith",
+    "website": "gosanangelo.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "23.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "43",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "19.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "54",
+      "pubCode": "FM"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "17.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "75",
+      "pubCode": "SW"
+    }
+  },
+  {
+    "siteName": "Green Bay",
+    "tier": "B",
+    "oas": "",
+    "website": "greenbaypressgazette.com",
+    "market": "Mid",
+    "lsm": "Colleen Warner",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "28.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "54",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "61",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "",
+      "pubCode": "SR"
+    }
+  },
+  {
+    "siteName": "Greenville",
+    "tier": "B",
+    "oas": "Keith",
+    "website": "greenvilleonline.com",
+    "market": "Mid",
+    "lsm": "Carole Foster",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "29.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "55",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "20.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "57",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "71",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Hattiesburg",
+    "tier": "C",
+    "oas": "",
+    "website": "hattiesburgamerican.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "18.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "28",
+      "pubCode": "D3"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "12.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "28",
+      "pubCode": "SO"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "",
+      "pubCode": ""
+    }
+  },
+  {
+    "siteName": "Manitowoc",
+    "tier": "C",
+    "oas": "",
+    "website": "htrnews.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "23.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "43",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "19.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "54",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "14.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "69",
+      "pubCode": "SR"
+    }
+  },
+  {
+    "siteName": "Great Falls",
+    "tier": "C",
+    "oas": "",
+    "website": "http:www.greatfallstribune.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "25.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "48",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "20.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "57",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "14.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "69",
+      "pubCode": "SW"
+    }
+  },
+  {
+    "siteName": "Anderson",
+    "tier": "C",
+    "oas": "Keith",
+    "website": "independentmail.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "25.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "48",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "18.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "52",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "14.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "69",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Indianapolis",
+    "tier": "A",
+    "oas": "",
+    "website": "indystar.com",
+    "market": "Metro",
+    "lsm": "Kylee Webb",
+    "oaManager": "Ed Hart",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "32.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "59",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "26.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "67",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "73",
+      "pubCode": "SR"
+    }
+  },
+  {
+    "siteName": "Ithaca",
+    "tier": "C",
+    "oas": "",
+    "website": "ithacajournal.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "13",
+      "pubCode": "F2"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "12.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "28",
+      "pubCode": "SA"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "",
+      "pubCode": ""
+    }
+  },
+  {
+    "siteName": "Milwaukee - Metro",
+    "tier": "A",
+    "oas": "",
+    "website": "jsonline",
+    "market": "Metro",
+    "lsm": "Andy Johnson",
+    "oaManager": "Ed Hart",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "32.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "59",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "24.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "64",
+      "pubCode": "W4"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "73",
+      "pubCode": "SW"
+    }
+  },
+  {
+    "siteName": "Kitsap",
+    "tier": "C",
+    "oas": "",
+    "website": "kitsapsun.comnews",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "23.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "43",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "18.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "52",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "14.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "69",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Knoxville",
+    "tier": "A",
+    "oas": "Keith",
+    "website": "knoxnews.com",
+    "market": "Mid",
+    "lsm": "Heather Hebert",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "28.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "54",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "24.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "64",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "73",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Lancaster",
+    "tier": "C",
+    "oas": "",
+    "website": "lancastereaglegazette.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "41",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "17.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "49",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "13.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "67",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Lansing",
+    "tier": "B",
+    "oas": "",
+    "website": "lansingstatejournal.com",
+    "market": "Mid",
+    "lsm": "Meghann Boser",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "29.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "55",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "23.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "62",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "71",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Las Cruces",
+    "tier": "C",
+    "oas": "",
+    "website": "lcsun-news.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "19.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "32",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "17.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "49",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "14.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "69",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Lebanon",
+    "tier": "C",
+    "oas": "",
+    "website": "ldnews.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "25.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "48",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "42",
+      "pubCode": "L3"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "14.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "69",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Livingston",
+    "tier": "C",
+    "oas": "",
+    "website": "livingstondaily.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "17.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "24",
+      "pubCode": "5S"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "12.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "28",
+      "pubCode": "SO"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "",
+      "pubCode": ""
+    }
+  },
+  {
+    "siteName": "Westchester",
+    "tier": "A",
+    "oas": "",
+    "website": "lohud.com",
+    "market": "Metro",
+    "lsm": "Kasia Abrams",
+    "oaManager": "Ed Hart",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "32.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "59",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "26.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "67",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "73",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Mansfield",
+    "tier": "C",
+    "oas": "",
+    "website": "mansfieldnewsjournal.com",
+    "market": "Mid",
+    "lsm": "Tricia Speziale",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "23.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "43",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "17.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "49",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "71",
+      "pubCode": "SR"
+    }
+  },
+  {
+    "siteName": "Marion",
+    "tier": "C",
+    "oas": "",
+    "website": "marionstar.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "41",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "42",
+      "pubCode": "SR"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "13.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "67",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Marshfield",
+    "tier": "C",
+    "oas": "",
+    "website": "marshfieldnewsherald.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "41",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "42",
+      "pubCode": "D2"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "14.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "69",
+      "pubCode": "SS"
+    }
+  },
+  {
+    "siteName": "Montgomery",
+    "tier": "B",
+    "oas": "",
+    "website": "montgomeryadvertiser.com",
+    "market": "Mid",
+    "lsm": "Pricilla Binkley",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "27.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "52",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "20.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "57",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "71",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Bridgewater",
+    "tier": "C",
+    "oas": "",
+    "website": "mycentraljersey.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "28.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "54",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "61",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "73",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Naples",
+    "tier": "A",
+    "oas": "",
+    "website": "naplesnews.com",
+    "market": "Mid",
+    "lsm": "Brandon Trenasty",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "34.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "62",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "20.00",
+      "notes": "\"**Naples doesn't use these offers. They promoted $19.99/$14.99. $9.99/month hi & mid to vol fp",
+      "weeklyPrice": "1.99",
+      "savings": "57",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "73",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Newark",
+    "tier": "C",
+    "oas": "",
+    "website": "newarkadvocate.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "41",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "17.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "49",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "13.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "67",
+      "pubCode": "SR"
+    }
+  },
+  {
+    "siteName": "Staunton",
+    "tier": "C",
+    "oas": "",
+    "website": "newsleader.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "20.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "35",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "17.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "49",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "12.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "64",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Springfield",
+    "tier": "B",
+    "oas": "",
+    "website": "news-leader.com",
+    "market": "Mid",
+    "lsm": "Meghann Boser",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "28.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "54",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "61",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "18.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "76",
+      "pubCode": "SR"
+    }
+  },
+  {
+    "siteName": "Fort Myers",
+    "tier": "A",
+    "oas": "",
+    "website": "news-press.com",
+    "market": "Mid",
+    "lsm": "Brandon Trenasty",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "32.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "59",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "61",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "18.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "76",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Richmond",
+    "tier": "C",
+    "oas": "",
+    "website": "pal-item.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "41",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "46",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "13.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "67",
+      "pubCode": "SW"
+    }
+  },
+  {
+    "siteName": "Pensacola",
+    "tier": "B",
+    "oas": "",
+    "website": "pnj.com",
+    "market": "Mid",
+    "lsm": "Doug McMurray",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "29.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "55",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "6.48",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "1.49",
+      "savings": "60",
+      "pubCode": "SW"
+    }
+  },
+  {
+    "siteName": "Port Clinton",
+    "tier": "C",
+    "oas": "",
+    "website": "portclintonnewsherald.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "17.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "24",
+      "pubCode": "DO"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "13.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "33",
+      "pubCode": "3D"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "",
+      "pubCode": ""
+    }
+  },
+  {
+    "siteName": "Appleton",
+    "tier": "B",
+    "oas": "",
+    "website": "postcrescent.com",
+    "market": "Mid",
+    "lsm": "Colleen Warner",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "28.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "54",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "61",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "73",
+      "pubCode": "SR"
+    }
+  },
+  {
+    "siteName": "Poughkeepsie",
+    "tier": "B",
+    "oas": "",
+    "website": "poughkeepsiejournal.com",
+    "market": "Mid",
+    "lsm": "Deidre Coyle",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "29.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "55",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "23.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "62",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "73",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Iowa City",
+    "tier": "C",
+    "oas": "",
+    "website": "press-citizen.com",
+    "market": "Metro",
+    "lsm": "Corrine Martinez",
+    "oaManager": "Ed Hart",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "20.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "35",
+      "pubCode": "DO"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "13.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "33",
+      "pubCode": "D2"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "",
+      "pubCode": ""
+    }
+  },
+  {
+    "siteName": "Binghamton",
+    "tier": "B",
+    "oas": "",
+    "website": "pressconnects.com",
+    "market": "Mid",
+    "lsm": "Deidre Coyle",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "29.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "55",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "23.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "62",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "73",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Redding",
+    "tier": "C",
+    "oas": "",
+    "website": "redding.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "26.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "50",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "20.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "57",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "73",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Abilene",
+    "tier": "C",
+    "oas": "",
+    "website": "reporternews.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "26.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "50",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "61",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "73",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Reno",
+    "tier": "B",
+    "oas": "",
+    "website": "rgj.com",
+    "market": "Mid",
+    "lsm": "Katie Hauder",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "26.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "50",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "61",
+      "pubCode": "WS"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "73",
+      "pubCode": "SW"
+    }
+  },
+  {
+    "siteName": "Ruidoso",
+    "tier": "C",
+    "oas": "",
+    "website": "ruidosonews.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "5.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "",
+      "pubCode": "WF (M)"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "",
+      "pubCode": ""
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "",
+      "pubCode": ""
+    }
+  },
+  {
+    "siteName": "Silver City",
+    "tier": "C",
+    "oas": "",
+    "website": "scsun-news.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "13",
+      "pubCode": "WF + Las Cruces Sunday"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "",
+      "pubCode": ""
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "",
+      "pubCode": ""
+    }
+  },
+  {
+    "siteName": "St. Cloud",
+    "tier": "B",
+    "oas": "",
+    "website": "sctimes.com",
+    "market": "Mid",
+    "lsm": "Meghann Boser",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "28.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "54",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "18.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "52",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "18.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "76",
+      "pubCode": "SS"
+    }
+  },
+  {
+    "siteName": "Sheboygan",
+    "tier": "C",
+    "oas": "",
+    "website": "sheboyganpress.com",
+    "market": "Mid",
+    "lsm": "Colleen Warner",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "41",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "14.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "38",
+      "pubCode": "L3"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "",
+      "pubCode": ""
+    }
+  },
+  {
+    "siteName": "Shreveport",
+    "tier": "B",
+    "oas": "",
+    "website": "shreveporttimes.com",
+    "market": "Mid",
+    "lsm": "Pricilla Binkley",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "27.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "52",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "23.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "62",
+      "pubCode": "WS"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "71",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Elmira",
+    "tier": "C",
+    "oas": "",
+    "website": "stargazette.com",
+    "market": "Mid",
+    "lsm": "Deidre Coyle",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "28.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "54",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "61",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "17.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "75",
+      "pubCode": "SR"
+    }
+  },
+  {
+    "siteName": "Salem",
+    "tier": "B",
+    "oas": "",
+    "website": "statesmanjournal.com",
+    "market": "Mid",
+    "lsm": "Lisa McGlashan",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "26.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "50",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "61",
+      "pubCode": "WS"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "73",
+      "pubCode": "SW"
+    }
+  },
+  {
+    "siteName": "Stevens Point",
+    "tier": "C",
+    "oas": "",
+    "website": "stevenspointjournal.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "41",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "42",
+      "pubCode": "D2"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "14.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "69",
+      "pubCode": "SS"
+    }
+  },
+  {
+    "siteName": "Tallahassee",
+    "tier": "B",
+    "oas": "",
+    "website": "tallahassee.com",
+    "market": "Mid",
+    "lsm": "Doug McMurray",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "27.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "52",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "20.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "57",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "71",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Treasure Coast",
+    "tier": "B",
+    "oas": "",
+    "website": "tcpalm.com",
+    "market": "Mid",
+    "lsm": "Donna Pirson",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "27.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "52",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "23.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "62",
+      "pubCode": "WS"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "71",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Nashville",
+    "tier": "A",
+    "oas": "",
+    "website": "tennessean.com",
+    "market": "Metro",
+    "lsm": "Kris Ruaro",
+    "oaManager": "Ed Hart",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "32.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "59",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "61",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "18.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "76",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Salinas",
+    "tier": "C",
+    "oas": "Keith",
+    "website": "thecalifornian.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "12.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "",
+      "pubCode": "S3"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "",
+      "pubCode": ""
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "",
+      "pubCode": ""
+    }
+  },
+  {
+    "siteName": "Vineland",
+    "tier": "C",
+    "oas": "",
+    "website": "thedailyjournal.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "20.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "35",
+      "pubCode": "DO"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "",
+      "pubCode": ""
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "",
+      "pubCode": ""
+    }
+  },
+  {
+    "siteName": "Henderson",
+    "tier": "C",
+    "oas": "Keith",
+    "website": "thegleaner.com",
+    "market": "Mid",
+    "lsm": "Heather Hebert",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "23.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "43",
+      "pubCode": "T6"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "19.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "54",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "71",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Clarksville",
+    "tier": "C",
+    "oas": "",
+    "website": "theleafchronicle",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "26.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "50",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "18.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "52",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "71",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Fremont",
+    "tier": "C",
+    "oas": "",
+    "website": "thenews-messenger.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "17.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "24",
+      "pubCode": "DO"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "46",
+      "pubCode": "3D"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "",
+      "pubCode": ""
+    }
+  },
+  {
+    "siteName": "Monroe",
+    "tier": "C",
+    "oas": "",
+    "website": "thenewsstar.com",
+    "market": "Mid",
+    "lsm": "Pricilla Binkley",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "24.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "46",
+      "pubCode": "DS"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "12.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "64",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Oshkosh",
+    "tier": "C",
+    "oas": "",
+    "website": "thenorthwestern.com",
+    "market": "Mid",
+    "lsm": "Colleen Warner",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "24.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "46",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "46",
+      "pubCode": "SW"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "",
+      "pubCode": "N/A"
+    }
+  },
+  {
+    "siteName": "St. George",
+    "tier": "C",
+    "oas": "",
+    "website": "thespectrum.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "20.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "35",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "46",
+      "pubCode": "W4"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "71",
+      "pubCode": "SR"
+    }
+  },
+  {
+    "siteName": "Muncie",
+    "tier": "C",
+    "oas": "Keith",
+    "website": "thestarpress.com",
+    "market": "Mid",
+    "lsm": "Carole Foster",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "24.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "46",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "17.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "49",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "14.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "69",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Port Huron",
+    "tier": "C",
+    "oas": "",
+    "website": "thetimesherald.com",
+    "market": "Mid",
+    "lsm": "Meghann Boser",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "26.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "50",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "18.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "52",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "13.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "67",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Alexandria",
+    "tier": "C",
+    "oas": "",
+    "website": "thetowntalk.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "18.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "28",
+      "pubCode": "D3"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "12.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "28",
+      "pubCode": "SO"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "",
+      "pubCode": ""
+    }
+  },
+  {
+    "siteName": "Wichita Falls",
+    "tier": "C",
+    "oas": "",
+    "website": "timesrecordnews.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "23.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "43",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "17.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "49",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "14.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "69",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Ventura",
+    "tier": "B",
+    "oas": "Keith",
+    "website": "vcstar.com",
+    "market": "Mid",
+    "lsm": "Alex Fowler",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "28.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "54",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "61",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "73",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Tulare",
+    "tier": "C",
+    "oas": "",
+    "website": "visaliatimesdelta.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "12.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "",
+      "pubCode": "DO"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "",
+      "pubCode": ""
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "",
+      "pubCode": ""
+    }
+  },
+  {
+    "siteName": "Visalia",
+    "tier": "C",
+    "oas": "",
+    "website": "visaliatimesdelta.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "18.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "28",
+      "pubCode": "DO"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "12.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "28",
+      "pubCode": "D2"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "",
+      "pubCode": ""
+    }
+  },
+  {
+    "siteName": "Wausau",
+    "tier": "C",
+    "oas": "",
+    "website": "wausaudailyherald.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "25.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "48",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "18.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "52",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "73",
+      "pubCode": "SW"
+    }
+  },
+  {
+    "siteName": "Wisconsin Rapids",
+    "tier": "C",
+    "oas": "",
+    "website": "wisconsinrapidstribune.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "22.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "41",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "14.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "38",
+      "pubCode": "SS"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "71",
+      "pubCode": "D2"
+    }
+  },
+  {
+    "siteName": "Zanesville",
+    "tier": "C",
+    "oas": "",
+    "website": "zanesvilletimesrecorder.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "23.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "43",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "17.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "49",
+      "pubCode": "WS"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "71",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Jackson (MS)",
+    "tier": "B",
+    "oas": "Keith",
+    "website": "clarionledger.com",
+    "market": "Mid",
+    "lsm": "Sarah Kim",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "29.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "55",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "18.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "52",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "71",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Jackson (TN)",
+    "tier": "C",
+    "oas": "Keith",
+    "website": "jacksonsun.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "26.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "50",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "18.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "52",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "73",
+      "pubCode": "SW"
+    }
+  },
+  {
+    "siteName": "Lafayette (IN)",
+    "tier": "C",
+    "oas": "Keith",
+    "website": "jconline.com",
+    "market": "Mid",
+    "lsm": "Carole Foster",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "26.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "50",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "20.00",
+      "notes": "not on Genesys",
+      "weeklyPrice": "1.99",
+      "savings": "57",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "73",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Asbury Park",
+    "tier": "A",
+    "oas": "",
+    "website": "app.com",
+    "market": "Metro",
+    "lsm": "Laura Cesco-Cancian",
+    "oaManager": "Ed Hart",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "32.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "59",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "6.48",
+      "voluntaryPrice": "18.00",
+      "notes": "",
+      "weeklyPrice": "1.49",
+      "savings": "64",
+      "pubCode": "SF"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Bergen - Herald News",
+    "tier": "C",
+    "oas": "",
+    "website": "northjersey.com",
+    "market": "Metro",
+    "lsm": "OPEN",
+    "oaManager": "Ed Hart",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "32.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "59",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "26.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "67",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "18.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "76",
+      "pubCode": "SR"
+    }
+  },
+  {
+    "siteName": "Bergen - The Record",
+    "tier": "A",
+    "oas": "",
+    "website": "northjersey.com",
+    "market": "Metro",
+    "lsm": "OPEN",
+    "oaManager": "Ed Hart",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "32.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "59",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "26.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "67",
+      "pubCode": "ST"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "18.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "76",
+      "pubCode": "SR"
+    }
+  },
+  {
+    "siteName": "Chambersburg",
+    "tier": "C",
+    "oas": "",
+    "website": "punblicopiniononline.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "25.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "48",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "12.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "28",
+      "pubCode": "SO"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "",
+      "pubCode": ""
+    }
+  },
+  {
+    "siteName": "Lafayette (LA)",
+    "tier": "B",
+    "oas": "",
+    "website": "theadvertiser.com",
+    "market": "Mid",
+    "lsm": "Pricilla Binkley",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "27.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "52",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "20.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "57",
+      "pubCode": "WE"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "71",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "New (East) Brunswick",
+    "tier": "C",
+    "oas": "",
+    "website": "mycentraljersey.com",
+    "market": "Mid",
+    "lsm": "Tricia Speziale",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "28.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "54",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "20.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "57",
+      "pubCode": "D3"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "16.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "73",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "York Dispatch",
+    "tier": "B",
+    "oas": "",
+    "website": "yorkdispatch.com",
+    "market": "Mid",
+    "lsm": "Laura Romberger",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "29.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "55",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "23.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "62",
+      "pubCode": "Y4"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "",
+      "pubCode": "n/a"
+    }
+  },
+  {
+    "siteName": "York Daily Record",
+    "tier": "B",
+    "oas": "",
+    "website": "ydr.com",
+    "market": "Mid",
+    "lsm": "Laura Romberger",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "29.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "55",
+      "pubCode": "DS"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "23.00",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "62",
+      "pubCode": "Y4"
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "71",
+      "pubCode": "SO"
+    }
+  },
+  {
+    "siteName": "Baxter County",
+    "tier": "C",
+    "oas": "",
+    "website": "baxterbulletin.com",
+    "market": "G-50",
+    "lsm": "Scott Daily",
+    "oaManager": "Jeff Hertlein",
+    "highFod": {
+      "discountedMonthlyPrice": "13.00",
+      "voluntaryPrice": "15.00",
+      "notes": "",
+      "weeklyPrice": "2.99",
+      "savings": "13",
+      "pubCode": "DO"
+    },
+    "midFod": {
+      "discountedMonthlyPrice": "8.65",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "1.99",
+      "savings": "",
+      "pubCode": ""
+    },
+    "lowFod": {
+      "discountedMonthlyPrice": "4.30",
+      "voluntaryPrice": "",
+      "notes": "",
+      "weeklyPrice": "0.99",
+      "savings": "",
+      "pubCode": ""
+    }
+  }
+]

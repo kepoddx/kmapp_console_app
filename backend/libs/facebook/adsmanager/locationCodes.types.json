@@ -1,0 +1,91 @@
+{
+     "FondDuLac" : [
+          {
+              "key": "2547277",
+              "name": "Fond du Lac",
+              "type": "city",
+              "country_code": "US",
+              "country_name": "United States",
+              "region": "Wisconsin",
+              "region_id": 3892,
+              "supports_region": true,
+              "supports_city": true
+          },
+          {
+              "key": "2548051",
+              "name": "North Fond du Lac",
+              "type": "city",
+              "country_code": "US",
+              "country_name": "United States",
+              "region": "Wisconsin",
+              "region_id": 3892,
+              "supports_region": true,
+              "supports_city": true
+          }
+       ],
+     "Manitowoc" : [
+          {
+              "key": "2547815",
+              "name": "Manitowoc",
+              "type": "city",
+              "country_code": "US",
+              "country_name": "United States",
+              "region": "Wisconsin",
+              "region_id": 3892,
+              "supports_region": true,
+              "supports_city": true
+          },
+          {
+              "key": "2547816",
+              "name": "Manitowoc Rapids",
+              "type": "city",
+              "country_code": "US",
+              "country_name": "United States",
+              "region": "Wisconsin",
+              "region_id": 3892,
+              "supports_region": true,
+              "supports_city": true
+          }
+      ],
+      "Marshfield" : [
+          {
+               "key": "2547841",
+               "name": "Marshfield",
+               "type": "city",
+               "country_code": "US",
+               "country_name": "United States",
+               "region": "Wisconsin",
+               "region_id": 3892,
+               "supports_region": true,
+               "supports_city": true
+           }
+      ],
+      "Stevens Point": [
+          {
+               "key": "2548564",
+               "name": "Stevens Point",
+               "type": "city",
+               "country_code": "US",
+               "country_name": "United States",
+               "region": "Wisconsin",
+               "region_id": 3892,
+               "supports_region": true,
+               "supports_city": true
+           }
+      ],
+      "Wisconsin Rapids": [
+          {
+               "key": "2548847",
+               "name": "Wisconsin Rapids",
+               "type": "city",
+               "country_code": "US",
+               "country_name": "United States",
+               "region": "Wisconsin",
+               "region_id": 3892,
+               "supports_region": true,
+               "supports_city": true
+           }
+      ]
+
+
+}

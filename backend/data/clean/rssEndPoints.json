@@ -1,0 +1,73 @@
+{
+    "asheville": {
+        "feedUrl": "http://static.citizen-times.com/rss/",
+        "urls": [
+            { "vertical": "sports", "link" : "http://rssfeeds.citizen-times.com/asheville/sports&x=1"},
+            { "vertical": "localNews", "link" : "http://rssfeeds.citizen-times.com/asheville/local&x=1"},
+            { "vertical": "entertainment", "link" : "http://rssfeeds.citizen-times.com/asheville/scene&x=1"}
+        ],
+        "liveUrls": [
+            { "vertical" : "sports", "link": "http://rssfeeds.citizen-times.com/asheville/sports&x=1"},
+            { "vertical": "localNews", "link" : "http://rssfeeds.citizen-times.com/asheville/local&x=1"},
+            { "vertical": "entertainment", "link" : "http://rssfeeds.citizen-times.com/asheville/scene&x=1"}
+        ]
+    },
+    "cherryHill": {
+        "feedUrl": "http://static.courierpostonline.com/rss/",
+        "urls": [
+            { "vertical" : "entertainment" ,"link" : "http://rssfeeds.courierpostonline.com/cherryhill/entertainment&x=1"},
+            { "vertical" : "localNews" ,"link" : "http://rssfeeds.courierpostonline.com/cherryhill/localnews&x=1"},
+            { "vertical" : "eagles" ,"link" : "http://rssfeeds.courierpostonline.com/cherryhill/eagles&x=1"},
+            { "vertical" : "flyers" ,"link" : "http://rssfeeds.courierpostonline.com/cherryhill/flyers&x=1"},
+            { "vertical" : "phillies" ,"link" : "http://rssfeeds.courierpostonline.com/cherryhill/phillies&x=1"},
+            { "vertical" : "sixers" ,"link" : "http://rssfeeds.courierpostonline.com/cherryhill/sixers&x=1"},
+            { "vertical" : "varsity" ,"link" : "http://rssfeeds.courierpostonline.com/cherryhill/varsity&x=1"}
+        ],
+        "liveUrls": [
+            { "vertical" : "entertainment" ,"link" : "http://rssfeeds.courierpostonline.com/cherryhill/entertainment&x=1"},
+            { "vertical" : "localNews" ,"link" : "http://rssfeeds.courierpostonline.com/cherryhill/localnews&x=1"}
+        ]
+    },
+    "evansville": {
+         "feedUrl" : "http://static.courierpress.com/rss/",
+        "urls": [
+            { "vertical" : "otters" ,"link" : "http://rssfeeds.courierpress.com/courierpress/sports/otters&x=1"},
+            { "vertical" : "ueSports" ,"link" : "http://rssfeeds.courierpress.com/courierpress/sports/uesports&x=1"},
+            { "vertical" : "thunderbolts" ,"link" : "http://rssfeeds.courierpress.com/courierpress/sports/thunderbolts&x=1"},
+            { "vertical" : "pacers" ,"link" : "http://rssfeeds.courierpress.com/courierpress/sports/pacers&x=1"},
+            { "vertical" : "colts" ,"link" : "http://rssfeeds.courierpress.com/courierpress/sports/colts&x=1"},
+            { "vertical" : "hoosiers" ,"link" : "http://rssfeeds.courierpress.com/courierpress/sports/hoosiers&x=1"},
+            { "vertical" : "highSchoolSports" ,"link" : "http://rssfeeds.courierpress.com/courierpress/sports/highschool&x=1"},
+            { "vertical" : "foodAndDining" ,"link" : "http://rssfeeds.courierpress.com/courierpress/features/fooddining&x=1"},
+            { "vertical" : "artsAndCulture" ,"link" : "http://rssfeeds.courierpress.com/courierpress/features/artsculture&x=1"},
+            { "vertical" : "healtAndFitness" ,"link" : "http://rssfeeds.courierpress.com/courierpress/features/healthfitness&x=1"},
+            { "vertical" : "makingTheGrade" ,"link" : "http://rssfeeds.courierpress.com/courierpress/news/makingthegrade&x=1"}
+        ],
+        "liveUrls": [
+            { "vertical" : "highSchoolSports" ,"link" : "http://rssfeeds.courierpress.com/courierpress/sports/highschool&x=1"},
+            { "vertical" : "foodAndDining" ,"link" : "http://rssfeeds.courierpress.com/courierpress/features/fooddining&x=1"},
+            { "vertical" : "artsAndCulture" ,"link" : "http://rssfeeds.courierpress.com/courierpress/features/artsculture&x=1"},
+            { "vertical" : "healtAndFitness" ,"link" : "http://rssfeeds.courierpress.com/courierpress/features/healthfitness&x=1"},
+            { "vertical" : "highSchoolSports" ,"link" : "http://rssfeeds.courierpress.com/courierpress/sports/highschool&x=1"}
+        ]
+    },
+    "memphis": {
+        "feedUrl": "http://static.commercialappeal.com/rss/",
+        "urls": [
+            { "vertical": "tigers", "link": "http://rssfeeds.commercialappeal.com/memphis/tigers"},
+            { "vertical": "grizzlies", "link": "http://rssfeeds.commercialappeal.com/memphis/grizzlies"},
+            { "vertical": "prepSports", "link": "http://rssfeeds.commercialappeal.com/memphis/preps"},
+            { "vertical": "food", "link": "http://rssfeeds.commercialappeal.com/memphis/food&x=1"},
+            { "vertical": "entertainment", "link": "http://rssfeeds.commercialappeal.com/memphis/entertainment&x=1"},
+            { "vertical": "suburbs", "link": "http://rssfeeds.commercialappeal.com/memphis/suburbs&x=1"}
+        ],
+        "liveUrls": [
+            { "vertical": "tigers", "link": "http://rssfeeds.commercialappeal.com/memphis/tigers"},
+            { "vertical": "grizzlies", "link": "http://rssfeeds.commercialappeal.com/memphis/grizzlies"},
+            { "vertical": "prepSports", "link": "http://rssfeeds.commercialappeal.com/memphis/preps"},
+            { "vertical": "food", "link": "http://rssfeeds.commercialappeal.com/memphis/food&x=1"},
+            { "vertical": "entertainment", "link": "http://rssfeeds.commercialappeal.com/memphis/entertainment&x=1"},
+            { "vertical": "suburbs", "link": "http://rssfeeds.commercialappeal.com/memphis/suburbs&x=1"}
+        ]
+    }
+}

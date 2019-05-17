@@ -1,0 +1,113 @@
+Site Name,Tier,Digital Pub Code,Digital Rate,MG2 including e-Edition,MG2 Upsell,Digital Rate Code,Digital Term Length,Digital PID,Print Pub Code,Print Offers,Print Term Length,High FOD,High FOD Rate,High FOD Rate Code,High FOD PID,Low FOD,Low FOD Rate,Low FOD Rate Code,Low FOD PID
+Alexandria,C,OT,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,TT,50% Off (No OTSF),3 Months,D3,9,KA,3896719,SO,6,KA,3896720
+Anderson,C,IW,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,AI,50% Off (No OTSF),3 Months,DS,12.5,WC,3896686,SO,7,WC,3896731
+Asbury Park,A,DA,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,AP,$X.99 Week (No OTSF),3 Months,DS,13.00116036,Z%,3896952,SF,6.478839108,Z%,3896953
+Asheville,B,CD,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,CT,$X.99 Week (No OTSF),3 Months,DS,13.00116036,74,3553175,SO,4.3,74,3896671
+Battle Creek,C,ED,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,EN,50% Off (No OTSF),3 Months,DS,13,WA,3896851,SO,7.125,WA,3896852
+Bergen - Herald News,C,HW,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,HR,50% Off (No OTSF),3 Months,DS,16,KJ,3896955,SR,9,KJ,3896956
+Bergen - The Record,A,TW,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,TR,$X.99 Week (No OTSF),3 Months,DS,13.00116036,Z4,3896957,SR,4.304732025,Z4,3896958
+Binghamton,B,DP,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,PS,$X.99 Week (No OTSF),3 Months,DS,13.00116036,Z%,3897010,SO,4.304732025,Z%,3896963
+Brevard,B,WA,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,FT,$X.99 Week (No OTSF),3 Months,DS,13.00116036,{D,3896685,SO,4.304732025,{D,3896728
+Bridgewater,C,DC,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,CN,50% Off (No OTSF),3 Months,DS,14,KA,3897000,SO,8,KA,3897001
+Burlington,B,DF,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,FP,$X.99 Week (No OTSF),3 Months,DS,13.00116036,Z%,3896961,SO,4.304732025,Z%,3896962
+Chambersburg,C,EC,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,PO,50% Off (No OTSF),3 Months,DS,12.5,GJ,3896966,SO,6,GJ,3897015
+Cherry Hill,B,DC,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,CP,$X.99 Week (No OTSF),3 Months,DS,13.00116036,Z%,3897003,SO,4.304732025,Z%,3897004
+Clarksville,C,DL,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,LC,50% Off (No OTSF),3 Months,DS,13,KA,3896683,SO,7.5,KA,3896684
+Detroit Free Press,A,WF,99c per week,n/a,n/a,FALSE,Year,3896841,FP,$X.99 Week (No OTSF),3 Months,PW,13.00116036,{D,3896790,SD,4.304732025,{D,3896791
+Detroit News,A,WD,99c per week ,n/a,n/a,FALSE,Year,3896842,DN,$X.99 Week (No OTSF),3 Months,PW,13.00116036,{D,3896792,,,,
+Elmira,C,DS,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,SG,50% Off (No OTSF),3 Months,DS,14,KA,3897011,SR,8.5,KA,3897012
+Fort Myers,A,AA,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,NP,$X.99 Week (No OTSF),3 Months,DS,13.00116036,{D,3896706,SO,4.304732025,{D,3896707
+Greenville,B,WA,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,GN,$X.99 Week (No OTSF),3 Months,DS,13.00116036,D6,3896672,SO,4.304732025,D6,3896673
+Hanover,C,EH,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,ES,50% Off (No OTSF),3 Months,H3,7.5,GJ,3897016,SO,6,GJ,3897017
+Hattiesburg,C,HD,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,HA,50% Off (No OTSF),3 Months,D3,9,KA,3896668,SO,6,KA,3896669
+Ithaca,C,DI,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,IJ,50% Off (No OTSF),3 Months,DO,10,KA,3897013,SA,6,KA,3896964
+Jackson (MS),B,CD,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,CL,$X.99 Week (No OTSF),3 Months,DS,13.00116036,D-,3896667,SO,4.304732025,D-,3896705
+Jackson (TN),C,JD,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,JS,50% Off (No OTSF),3 Months,DS,13,KA,3896724,SW,8,KA,3896725
+Knoxville,A,XW,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,KN,$X.99 Week (No OTSF),3 Months,DS,13.00116036,J3,3896674,SO,4.304732025,AS,3896709
+Lafayette (LA),B,OA,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,DA,$X.99 Week (No OTSF),3 Months,DS,13.00116036,D-,3896716,SO,4.304732025,D-,3896717
+Lansing,B,SD,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,SJ,$X.99 Week (No OTSF),3 Months,DS,13.00116036,{D,3896844,SO,4.304732025,{D,3896845
+Lebanon,C,EL,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,DN,50% Off (No OTSF),3 Months,DS,12.5,KJ,3897018,SO,6,KJ,3896967
+Livingston,C,WP,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,PA,50% Off (No OTSF),3 Months,5S,8.5,GA,3896903,SO,6,GA,3896904
+Memphis,B,MW,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,CM,$X.99 Week (No OTSF),3 Months,DS,13.00116036,BP,3896710,SO,4.304732025,63,3896711
+Monroe,C,AN,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,NS,50% Off (No OTSF),3 Months,DS,12,KA,3896679,SO,6,KA,3896718
+Montgomery,B,DA,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,MA,$X.99 Week (No OTSF),3 Months,DS,13.00116036,D-,3896675,SO,4.304732025,D-,3896676
+Morristown,C,DD,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,DR,50% Off (No OTSF),3 Months,DS,14,KA,3897002,SO,8,KA,3896959
+Murfreesboro,C,DJ,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,NJ,50% Off (No OTSF),3 Months,DS,10,KA,3896723,SO,6,KA,3896682
+Naples,A,NW,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,NN,$X.99 Week (No OTSF),3 Months,DS,19.99,}J,3896670,SO,9.99,}J,3896708
+Nashville,A,DP,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,TN,$X.99 Week (No OTSF),3 Months,DS,13.00116036,0M,3896726,SO,4.304732025,0M,3896727
+New (East) Brunswick ,C,DH,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,HN,50% Off (No OTSF),3 Months,DS,14,KA,3896954,SO,8,KA,3896899
+Opelousas,C,OW,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,DW,50% Off (No OTSF),3 Months,D3,7.5,KA,3896713,SO,4,KA,3896678
+Pensacola,B,ND,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,NJ,$X.99 Week (No OTSF),3 Months,DS,13.00116036,{4,3896677,SW,6.478839108,{4,3896712
+Port Huron,C,TD,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,TH,50% Off (No OTSF),3 Months,DS,13,KA,3896853,SO,6.5,KA,3896905
+Poughkeepsie,B,DA,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,PJ,$X.99 Week (No OTSF),3 Months,DS,13.00116036,Z%,3897008,SO,4.304732025,Z%,3897009
+Rochester,A,DA,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,DC,$X.99 Week (No OTSF),3 Months,DS,13.00116036,<D,3897005,SS,4.304732025,<D,3897006
+Salisbury,B,DG,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,DT,$X.99 Week (No OTSF),3 Months,DS,13.00116036,Z4,3897014,SW,6.478839108,Z4,3896965
+Shreveport,B,AS,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,ST,$X.99 Week (No OTSF),3 Months,DS,13.00116036,D-,3896714,SO,4.304732025,D-,3896715
+Staunton,C,DP,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,NL,50% Off (No OTSF),3 Months,DS,10,KA,3896680,SO,6,KA,3896681
+Tallahassee,B,WA,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,TD,$X.99 Week (No OTSF),3 Months,DS,13.00116036,MF,3896721,SO,4.304732025,MF,3896722
+Treasure Coast,B,SW,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,SN,$X.99 Week (No OTSF),3 Months,DS,13.00116036,{D,3896729,SO,4.304732025,{D,3896730
+Vineland,C,DV,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,DJ,50% Off (No OTSF),3 Months,DO,10,GJ,3897007,,,,
+Westchester,A,DA,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,WT,$X.99 Week (No OTSF),3 Months,DS,13.00116036,ZH,3611030,SO,4.304732025,ZH,3896960
+Wilmington,B,DA,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,M,$X.99 Week (No OTSF),3 Months,DS,13,{4,3732200,SO,4.3,{4,3732202
+York Dispatch,B,ED,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,YD,$X.99 Week (No OTSF),3 Months,DS,13.00116036,Z4,3897020,,,,
+York Daily Record,B,EM,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,YR,$X.99 Week (No OTSF),3 Months,DS,13.00116036,Z4,3897019,SO,4.304732025,Z4,3896968
+Abilene,C,AW,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,AB,50% Off (No OTSF),3 Months,DS,13,KA,3896934,SO,8,KA,3896879
+Alamogordo,C,AE,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,DN,50% Off (No OTSF),3 Months,T6,9,KD,3896937,SO,6.5,KD,3896885
+Appleton,B,ZA,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,PC,$X.99 Week (No OTSF),3 Months,DS,13.00116036,{D,3896914,L3,4.3,{D,3896915
+Baxter County,C,WA,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,BB,50% Off (No OTSF),3 Months,DO,7.5,BC,3896854,,,,
+Bucyrus,C,OB,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,BT,50% Off (No OTSF),3 Months,DO,8.5,KH,3747131,WK,6.5,KH,3747056
+Carlsbad,C,CE,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,CA,50% Off (No OTSF),3 Months,T6,9,KD,3896886,SO,6.5,KD,3896887
+Chillicothe,C,OG,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,CG,50% Off (No OTSF),3 Months,DS,11,KH,3747133,SS,7.5,KH,3747134
+Cincinnati,A,FA,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,EQ,$X.99 Week (No OTSF),3 Months,DS,13.00116036,C},3896793,SO,4.304732025,C},3896794
+Corpus Christi,B,CW,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,CC,$X.99 Week (No OTSF),3 Months,DS,13.00116036,DI,3896865,SO,4.304732025,DI,3896918
+Coshocton,C,OC,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,CT,50% Off (No OTSF),3 Months,DS,11,KH,3747137,SO,6.5,KH,3747058
+Deming,C,DE,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,HL,50% Off (No OTSF),3 Months,WF,7.5,KJ,N/A,,,,
+Des Moines,A,DA,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,DM,$X.99 Week (No OTSF),3 Months,DS,13.00116036,{D,3896795,SP,4.3,{D,3896796
+El Paso,B,EE,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,TM,$X.99 Week (No OTSF),3 Months,DS,13.00116036,{3,3896922,SS,4.304732025,{3,3896923
+Evansville,B,EW,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,EV,$X.99 Week (No OTSF),3 Months,DS,13.00116036,{D,3896900,SO,4.304732025,{D,3896846
+Farmington,C,FE,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,DT,50% Off (No OTSF),3 Months,DS,8,KD,3896938,SO,6.5,KD,3896888
+Fond du Lac,C,ZF,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,TR,50% Off (No OTSF),3 Months,5S,10,KA,3896872,SW,7,KA,3896925
+Fort Collins,B,DA,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,CO,$X.99 Week (No OTSF),3 Months,ST,8.652946192,VE,3896847,SW,4.304732025,VE,3896901
+Fremont,C,OF,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,FM,50% Off (No OTSF),3 Months,DO,8.5,KH,3747141,3D,8,KH,3747061
+Great Falls,C,DA,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,GF,50% Off (No OTSF),3 Months,DS,12.5,GA,3896906,SW,7,GA,3896907
+Green Bay,B,ZG,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,PG,$X.99 Week (No OTSF),3 Months,DS,13.00116036,{D,3896916,L3,4.3,{D,3896917
+Henderson,C,GW,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,GL,50% Off (No OTSF),3 Months,T6,11.5,LE,3896908,SO,7.5,LE,3896909
+Indianapolis,A,IC,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,IS,$X.99 Week (No OTSF),3 Months,DS,13.00116036,{I,3896797,SR,4.304732025,{D,3896798
+Iowa City,C,DP,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,PC,50% Off (No OTSF),3 Months,DO,10,KA,3896855,D2,6.5,KA,3896856
+Kitsap,C,KW,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,KS,50% Off (No OTSF),3 Months,DS,11.5,SJ,3896890,SO,7,RV,3896942
+Lafayette (IN),C,LC,$3for3Months-$8.99/Mfor12M,2682,,FALSE,Year,MG2,JC,50% Off (No OTSF),3 Months,DS,,MG2,2682,SO,,MG2,2682
+Lancaster,C,OL,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,LE,50% Off (No OTSF),3 Months,DS,11,KH,3747143,SO,6.5,KH,3747062
+Las Cruces,C,LE,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,LC,50% Off (No OTSF),3 Months,DS,9.5,KD,3896939,SO,7,KD,3896889
+Louisville,A,DG,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,CJ,$X.99 Week (No OTSF),3 Months,DS,13.00116036,{D,3896799,SO,4.304732025,{D,3896843
+Manitowoc,C,ZM,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,HR,50% Off (No OTSF),3 Months,DS,11.5,KA,3896926,L3,7,KA,3896927
+Mansfield,C,OM,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,MN,50% Off (No OTSF),3 Months,DS,11.5,KH,3747146,SR,7.5,KH,3747063
+Marion,C,OS,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,MS,50% Off (No OTSF),3 Months,DS,11,KH,3747148,SO,6.5,KH,3747068
+Marshfield,C,ZN,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,MN,50% Off (No OTSF),3 Months,DS,11,KA,3896928,D2,7.5,KA,3896929
+Milwaukee - Metro,A,ZJ,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,MJ,$X.99 Week (No OTSF),3 Months,DS,13.00116036,{D,3896863,SW,4.304732025,{D,3896864
+Muncie,C,SP,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,MC,50% Off (No OTSF),3 Months,DS,12,GA,3746696,SO,7,GA,3746694
+Newark,C,ON,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,NA,50% Off (No OTSF),3 Months,DS,11,KH,3747150,SR,6.5,KH,3747071
+Oshkosh,C,ZO,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,ON,50% Off (No OTSF),3 Months,DS,12,KA,3896873,SW,8,KA,3896874
+Palm Springs,B,ME,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,DS,$X.99 Week (No OTSF),3 Months,DS,13.00116036,VD,3896866,SO,4.304732025,VD,3896919
+Phoenix,A,AW,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,AZ,$X.99 Week (No OTSF),3 Months,DS,13,OW,3896867,SW,4.3,OW,3896868
+Port Clinton,C,OP,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,PH,50% Off (No OTSF),3 Months,DO,8.5,KH,3747074,3D,6.5,KH,3747155
+Redding,C,RW,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,RR,50% Off (No OTSF),3 Months,DS,13,KA,3896940,SO,8,KA,3896941
+Reno,B,DA,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,GJ,$X.99 Week (No OTSF),3 Months,DS,13.00116036,WD,3896920,SW,4.304732025,WD,3896869
+Richmond,C,RD,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,PI,50% Off (No OTSF),3 Months,DS,11,GA,3746690,SW,6.5,GA,3746688
+Ruidoso,C,RE,$3for3Months-$8.99/Mfor12M,2791,,,,,RN,,,,,,N/A,,,,
+Salem,B,DA,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,SJ,$X.99 Week (No OTSF),3 Months,DS,13,YD,3896870,SW,4.3,YD,3896921
+Salinas,C,CA,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,SC,50% Off (No OTSF),3 Months,S3,6,LA,3896884,,,,
+San Angelo,C,TW,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,SS,50% Off (No OTSF),3 Months,DS,11.5,KA,3896880,SW,8.5,KA,3896881
+Sheboygan,C,ZS,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,SH,50% Off (No OTSF),3 Months,DS,11,KA,3896875,L3,7,KA,3896876
+Silver City,C,SE,$3for3Months-$8.99/Mfor12M,2791,,,,,SC,50% Off (No OTSF),3 Months,WF,7.5,KG,N/A,,,,
+Sioux Falls,B,DA,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,AL,$X.99 Week (No OTSF),3 Months,DS,13.00116036,YD,3896848,SR,4.304732025,YD,3896849
+Springfield,B,WA,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,NL,$X.99 Week (No OTSF),3 Months,DS,13.00116036,{D,3640181,SR,4.304732025,{D,3638236
+St. Cloud,B,DA,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,SC,$X.99 Week (No OTSF),3 Months,DS,13.00116036,YD,3896902,SS,4.304732025,YD,3896850
+St. George,C,WA,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,SP,50% Off (No OTSF),3 Months,DS,10,KA,3896883,SR,7.5,KA,3896936
+Stevens Point,C,ZP,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,SP,50% Off (No OTSF),3 Months,DS,11,KA,3896930,D2,7.5,KA,3896931
+Tulare,C,AA,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,AR,50% Off (No OTSF),3 Months,DO,6,KA,3896892,,,,
+Ventura,B,VW,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,VC,$X.99 Week (No OTSF),3 Months,DS,13.00116036,YG,3896871,SO,4.304732025,YG,3896924
+Visalia,C,TA,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,TD,50% Off (No OTSF),3 Months,DO,9,KA,3896943,D2,6,KA,3896891
+Wausau,C,ZW,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,DH,50% Off (No OTSF),3 Months,DS,12.5,KA,3896932,SW,8,KA,3896933
+Wichita Falls,C,FW,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,FR,50% Off (No OTSF),3 Months,DS,11.5,KA,3896882,SO,7,KA,3896935
+Wisconsin Rapids,C,ZR,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,WR,50% Off (No OTSF),3 Months,DS,11,KA,3896877,D2,7.5,KA,3896878
+Zanesville,C,OZ,$3for3Months-$8.99/Mfor12M,2791,,FALSE,Year,,ZT,50% Off (No OTSF),3 Months,DS,11.5,KH,3747076,SR,7.5,KH,3747156
